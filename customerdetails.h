@@ -10,7 +10,6 @@ class customerdetails
     private:
         string line,field,junk,UserID;
         string Name,Type,Address1,Address2,Address3,City,State,Country,PinCode,PhoneNumber,Email,Pan;
-
     public:
     customerdetails()
     {
